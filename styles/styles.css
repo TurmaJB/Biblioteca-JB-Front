@@ -1,0 +1,94 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+
+.header-C{
+    background-color: #99C2EC;
+    height: 160px;
+    display: flex;
+    }
+
+.cards img{
+    height: 300px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-top: 100px;
+    margin-left: 1500px;
+}
+
+
+
+.header-C a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+
+
+
+
+.titulo{
+    display: flex;
+    position: absolute;
+    top: 15%;
+    right: 0%;
+}
+
+button{
+    margin-left: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 170px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+.cards{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 90px
+    
+}
+
+.cards h3{
+    display: flex;
+}
+
+.livros-disp{
+  display: flex;
+  position: absolute;
+  right: 48%;
+  bottom: 15%;
+ 
+}
+
+.livros-disp button {
+    cursor: pointer;
+}
+
+.button-card{
+    display: flex;
+    margin-top: 40px;
+}
+
+.bj{
+    display: flex;
+    margin-right: 100px;
+    position: absolute;
+    margin-left: 15px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 22px;
+    top: 11%;
+}
+
