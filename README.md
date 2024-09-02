@@ -7,7 +7,8 @@ Parte inicial do Site/APP Biblioteca JB com consumo da API para login e cadastro
 
 ## Manual
 
-A estrutura de banco de dados e Back em ambiente de desenvolvimento no repositório Alugue Biblioteca.
+A estrutura de banco de dados e Back em ambiente de desenvolvimento no repositório Alugue Biblioteca 
+e responsividade em fase de desenvolvimento.
 
 ## Objetivo
 
