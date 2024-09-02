@@ -5,7 +5,9 @@
 Parte inicial do Site/APP Biblioteca JB com consumo da API para login e cadastro, site desenvolvido em HTML, CSS e JavaScript.
 
 
+## Manual
 
+A estrutura de banco de dados e Back em ambiente de desenvolvimento no repositório Alugue Biblioteca.
 
 ## Objetivo
 
